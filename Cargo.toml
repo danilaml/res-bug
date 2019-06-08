@@ -1,0 +1,5 @@
+[package]
+name = "res-bug"
+version = "0.1.0"
+authors = ["Danila Malyutin <d.maljutin@yandex.ru>"]
+edition = "2018"
